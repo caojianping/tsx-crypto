@@ -1,6 +1,6 @@
 {
   "name": "tsx-crypto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "数据加密、数字签名等功能库",
   "main": "dist/crypto.common.min.js",
   "module": "dist/crypto.esm.min.js",
